@@ -1,0 +1,14 @@
+altgraph==0.17.4
+art==6.2
+cffi==1.16.0
+just_playback==0.1.8
+numpy==1.26.4
+packaging==24.0
+pycparser==2.22
+pyinstaller==6.6.0
+pyinstaller-hooks-contrib==2024.5
+setuptools==68.0.0
+soothingsounds==1.0.2
+sounddevice==0.4.6
+tinytag==1.10.1
+tk==0.1.0

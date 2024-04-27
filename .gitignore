@@ -1,0 +1,28 @@
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pyenv
+.python-version
+
+# Environments
+.autoenv.zsh
+.venv
+venv/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Build
+dist/
+build/
+main.spec
+
+# Project specific
+TODO.md
+!log/.gitkeep
+log/

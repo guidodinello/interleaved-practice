@@ -1,0 +1,22 @@
+{
+    "title": "Skill Practice Timer",
+
+    "header_start": "Start session",
+    "info_start": "How you doing today? Ready to practice?!!",
+    "btn_start": "Start Timer",
+
+    "header_paused": "Timer paused!",
+    "info_paused": "Caution, clock is not ticking.",
+    "btn_resume": "Resume Timer",
+
+    "header_practicing": "Time to practice!",
+    "info_practicing": "Keeping up with the grind.",
+    "btn_pause": "Pause Timer",
+
+    "header_break": "Take a break!",
+    "info_break": "Close your eyes and relax, empty your mind.",
+
+    "header_brac": "You already practice a lot!",
+    "info_brac": "We work best at 90 minutes cycles, stop for at least 20 minutes. This is known as the basic rest-activity cycle (BRAC).",
+    "btn_brac": "I Understand!"
+}
